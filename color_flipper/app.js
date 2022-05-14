@@ -9,7 +9,7 @@ btn.addEventListener("click",function()
     const randomNumer=getRandomNumber();
 
     document.body.style.backgroundColor= colors[randomNumer];
-    color.textContent = colors[randomNumer]
+    color.textContent = colors[randomNumer];
 });
 
 
